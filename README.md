@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlternateFire
-- 👀 I’m interested in ... CS(?) Maybe
+- 👀 I’m interested in ... Computer Science and Interactive Media Design
 - 🌱 I’m currently learning ... CS, Concept Art, etc
 - 💞️ I’m looking to collaborate on ... Game Projects, Any project tbh 
 - 📫 How to reach me ... dsyang04@gmail.com
