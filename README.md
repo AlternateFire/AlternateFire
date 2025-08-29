@@ -1,5 +1,6 @@
 Hello! Welcome to my page!
 ---
+Currently attending University of Maryland
 
 ## About
 Trying to nagivate what I want to code. 
