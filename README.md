@@ -1,8 +1,12 @@
-Hello! Welcome to my page!!!!
+Hello! Welcome to my page!
 ---
 
-Trying to find projects to code on. Hook me up.
-
+## About
+---
+Trying to nagivate what I want to code. 
 Currently using Python, working in a research lab and other misc projects!
 Email: yseunghan34@gmail.com
 - Love Sosa
+
+## Misc
+---
