@@ -10,4 +10,4 @@ Email: yseunghan34@gmail.com
 ## Misc
 - Love Sosa
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=github_dark&layout=compact)
