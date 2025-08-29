@@ -1,6 +1,6 @@
 Hello! Welcome to my page!
 ---
-Currently attending University of Maryland
+Currently attending University of Maryland. Trying to navigate college and life.
 
 ## About
 Trying to nagivate what I want to code. 
@@ -9,3 +9,5 @@ Email: yseunghan34@gmail.com
 
 ## Misc
 - Love Sosa
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
