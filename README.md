@@ -9,4 +9,4 @@ Email: yseunghan34@gmail.com
 
 ## Misc
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alternatecoding&theme=github_dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlternateFire&theme=github_dark&layout=compact)
