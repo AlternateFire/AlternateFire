@@ -2,6 +2,7 @@ Hello! Welcome to my page!
 ---
 Currently attending University of Maryland. Trying to navigate college and life.
 - Love Sosa
+- I WANT A JOB
 ## About
 Trying to nagivate what I want to code. 
 Currently using Python, working in a HCI research lab and other misc projects!
