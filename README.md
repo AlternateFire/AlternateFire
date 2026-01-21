@@ -1,11 +1,12 @@
-Hello! Welcome to my page!
+Welcome to my page!
 ---
-Currently attending University of Maryland. Trying to navigate college and life.
+Currently attending University of Maryland. Graduating 2026.
 - Love Sosa
-- I WANT A JOB
+
 ## About
-Trying to nagivate what I want to code. 
-Currently using Python, working in a HCI research lab and other misc projects!
+Trying to find projects and building what I want to code. 
+Working in a HCI research lab.
+Applying for jobs and grad applicaitons.
 Email: yseunghan34@gmail.com
 
 ## Misc
