@@ -11,4 +11,4 @@ Applying for jobs and grad applicaitons.
 Email: yseunghan34@gmail.com
 
 ## Misc
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlternateFire)](https://github.com/AlternateFire/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlternateFire)](https://github.com/AlternateFire/github-readme-stats&theme=dark)
