@@ -4,9 +4,9 @@ Currently attending University of Maryland. Graduating 2026.
 - Love Sosa
 
 ## About
-Trying to find projects and building things to learn. 
+I build things to learn. I'm always trying to find more interesting projects!
 Working on a startup (Posematic).
-Working in a HCI research lab.
+Currently wrapping up work-will be finished with HCI lab work.
 Applying for jobs and grad applicaitons.
 Email: yseunghan34@gmail.com
 
