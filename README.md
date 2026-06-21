@@ -9,6 +9,7 @@ Currently working on a startup called: **Posematic.** A reference workflow optim
 We aim to create systems that havent been deployed before in contemporary digital art applications, and we hope to bring useful technologies to artists while remaining true to our goals of respecting ownership, artists agency, and data ethics.
 
 Check us out: https://posematic.art/
+
 For Posematic business inquiries: posematic.team@gmail.com
 
 Email: yseunghan34@gmail.com
